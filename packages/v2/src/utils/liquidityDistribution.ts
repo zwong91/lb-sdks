@@ -1,4 +1,4 @@
-import { CurrencyAmount } from '@traderjoe-xyz/sdk-core'
+import { CurrencyAmount } from '@lb-xyz/sdk-core'
 import { Big } from 'big.js'
 import { spotUniform, curve, bidAsk } from '../constants'
 import {

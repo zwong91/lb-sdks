@@ -1,5 +1,5 @@
 {
-  "name": "@traderjoe-xyz/sdk",
+  "name": "@lb-xyz/sdk",
   "license": "MIT",
   "version": "5.0.12",
   "description": "🛠 An SDK for building applications on top of Trader Joe.",
@@ -22,7 +22,7 @@
     "clean": "rm -rf .turbo && rm -rf node_modules && rm -rf dist"
   },
   "dependencies": {
-    "@traderjoe-xyz/sdk-core": "workspace:^",
+    "@lb-xyz/sdk-core": "workspace:^",
     "big.js": "^6.2.1",
     "decimal.js-light": "^2.5.0",
     "jsbi": "^4.3.0",

@@ -1,5 +1,5 @@
 {
-  "name": "@traderjoe-xyz/sdk-v2",
+  "name": "@lb-xyz/sdk-v2",
   "license": "MIT",
   "version": "3.0.26",
   "main": "dist/index.js",
@@ -21,7 +21,7 @@
     "clean": "rm -rf .turbo && rm -rf node_modules && rm -rf dist"
   },
   "dependencies": {
-    "@traderjoe-xyz/sdk-core": "workspace:^",
+    "@lb-xyz/sdk-core": "workspace:^",
     "big.js": "^6.2.1",
     "jsbi": "^4.3.0",
     "lodash.flatmap": "^4.5.0",

@@ -1,5 +1,5 @@
 import { Hex } from 'viem'
-import { ChainId } from '@traderjoe-xyz/sdk-core'
+import { ChainId } from '@lb-xyz/sdk-core'
 
 /**
  * DEX SDK

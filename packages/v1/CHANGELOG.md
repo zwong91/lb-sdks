@@ -1,4 +1,4 @@
-# @traderjoe-xyz/sdk
+# @lb-xyz/sdk
 
 ## 5.0.12
 
@@ -6,7 +6,7 @@
 
 - 0e5f72b: add sonic
 - Updated dependencies [0e5f72b]
-  - @traderjoe-xyz/sdk-core@2.0.11
+  - @lb-xyz/sdk-core@2.0.11
 
 ## 5.0.11
 
@@ -20,7 +20,7 @@
 
 - ab05c71: add monad testnet addresses
 - Updated dependencies [ab05c71]
-  - @traderjoe-xyz/sdk-core@2.0.10
+  - @lb-xyz/sdk-core@2.0.10
 
 ## 5.0.9
 
@@ -28,7 +28,7 @@
 
 - a1e9168: add solana
 - Updated dependencies [a1e9168]
-  - @traderjoe-xyz/sdk-core@2.0.9
+  - @lb-xyz/sdk-core@2.0.9
 
 ## 5.0.8
 
@@ -36,7 +36,7 @@
 
 - 0aa58fe: add monad testnet
 - Updated dependencies [0aa58fe]
-  - @traderjoe-xyz/sdk-core@2.0.8
+  - @lb-xyz/sdk-core@2.0.8
 
 ## 5.0.7
 
@@ -44,14 +44,14 @@
 
 - 366535f: add base network
 - Updated dependencies [366535f]
-  - @traderjoe-xyz/sdk-core@2.0.7
+  - @lb-xyz/sdk-core@2.0.7
 
 ## 5.0.6
 
 ### Patch Changes
 
 - Updated dependencies [3a8328f]
-  - @traderjoe-xyz/sdk-core@2.0.6
+  - @lb-xyz/sdk-core@2.0.6
 
 ## 5.0.5
 
@@ -59,14 +59,14 @@
 
 - 6af01a8: add berachain mainnet
 - Updated dependencies [6af01a8]
-  - @traderjoe-xyz/sdk-core@2.0.5
+  - @lb-xyz/sdk-core@2.0.5
 
 ## 5.0.4
 
 ### Patch Changes
 
 - Updated dependencies [cdcf75e]
-  - @traderjoe-xyz/sdk-core@2.0.4
+  - @lb-xyz/sdk-core@2.0.4
 
 ## 5.0.3
 
@@ -74,7 +74,7 @@
 
 - 06fc276: add berachain artio
 - Updated dependencies [06fc276]
-  - @traderjoe-xyz/sdk-core@2.0.3
+  - @lb-xyz/sdk-core@2.0.3
 
 ## 5.0.2
 
@@ -82,7 +82,7 @@
 
 - 76fb1d0: fix vite
 - Updated dependencies [76fb1d0]
-  - @traderjoe-xyz/sdk-core@2.0.2
+  - @lb-xyz/sdk-core@2.0.2
 
 ## 5.0.1
 
@@ -90,7 +90,7 @@
 
 - 6e905b7: bump viem to v2
 - Updated dependencies [6e905b7]
-  - @traderjoe-xyz/sdk-core@2.0.1
+  - @lb-xyz/sdk-core@2.0.1
 
 ## 5.0.0
 
@@ -101,7 +101,7 @@
 ### Patch Changes
 
 - Updated dependencies [9ab3159]
-  - @traderjoe-xyz/sdk-core@2.0.0
+  - @lb-xyz/sdk-core@2.0.0
 
 ## 4.1.2
 
@@ -124,7 +124,7 @@
 ### Patch Changes
 
 - Updated dependencies [8065d41]
-  - @traderjoe-xyz/sdk-core@1.1.0
+  - @lb-xyz/sdk-core@1.1.0
 
 ## 4.0.8
 
@@ -132,4 +132,4 @@
 
 - 2f2e1c4: Package release from mono-repo
 - Updated dependencies [2f2e1c4]
-  - @traderjoe-xyz/sdk-core@1.0.1
+  - @lb-xyz/sdk-core@1.0.1

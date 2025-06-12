@@ -1,4 +1,4 @@
-# @traderjoe-xyz/sdk-core
+# @lb-xyz/sdk-core
 
 ## 2.0.11
 

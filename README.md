@@ -3,9 +3,9 @@
 ## Packages
 
 ```
-npm install @traderjoe-xyz/sdk-core
-npm install @traderjoe-xyz/sdk
-npm install @traderjoe-xyz/sdk-v2
+npm install @lb-xyz/sdk-core
+npm install @lb-xyz/sdk
+npm install @lb-xyz/sdk-v2
 ```
 
 ## Develop

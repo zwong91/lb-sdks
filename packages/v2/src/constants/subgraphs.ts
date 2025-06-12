@@ -1,4 +1,4 @@
-import { ChainId } from '@traderjoe-xyz/sdk-core'
+import { ChainId } from '@lb-xyz/sdk-core'
 
 export const DEX_V2_SUBGRAPH: { [chainId in ChainId]: string } = {
   [ChainId.FUJI]:

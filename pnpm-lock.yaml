@@ -84,7 +84,7 @@ importers:
 
   packages/v1:
     dependencies:
-      '@traderjoe-xyz/sdk-core':
+      '@lb-xyz/sdk-core':
         specifier: workspace:^
         version: link:../core
       big.js:
@@ -115,7 +115,7 @@ importers:
 
   packages/v2:
     dependencies:
-      '@traderjoe-xyz/sdk-core':
+      '@lb-xyz/sdk-core':
         specifier: workspace:^
         version: link:../core
       big.js:

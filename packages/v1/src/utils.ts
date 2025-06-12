@@ -14,7 +14,7 @@ import {
   sonic
 } from 'viem/chains'
 
-import { ChainId } from '@traderjoe-xyz/sdk-core'
+import { ChainId } from '@lb-xyz/sdk-core'
 
 export const getDefaultPublicClient = (chainId: ChainId): PublicClient => {
   if (chainId === ChainId.SOLANA) {
