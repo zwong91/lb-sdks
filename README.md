@@ -1,4 +1,4 @@
-# Joe SDKs
+# LB SDKs
 
 ## Packages
 
@@ -16,6 +16,8 @@ pnpm build
 
 pnpm lint
 pnpm lint:fix
+
+pnpm test
 
 pnpm clean
 ```
