@@ -1,9 +1,4 @@
-import {
-  ChainId,
-  Token,
-  TokenAmount,
-  sortedInsert
-} from '@lb-xyz/sdk-core'
+import { ChainId, Token, TokenAmount, sortedInsert } from '@lb-xyz/sdk-core'
 import { Pair, InsufficientInputAmountError } from '../src'
 import { describe, it, expect } from 'vitest'
 

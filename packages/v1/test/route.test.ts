@@ -1,10 +1,4 @@
-import {
-  Token,
-  WAVAX,
-  ChainId,
-  TokenAmount,
-  CNATIVE
-} from '@lb-xyz/sdk-core'
+import { Token, WAVAX, ChainId, TokenAmount, CNATIVE } from '@lb-xyz/sdk-core'
 import { Pair, Route } from '../src'
 import { describe, it, expect } from 'vitest'
 

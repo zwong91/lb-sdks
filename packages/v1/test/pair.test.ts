@@ -1,10 +1,4 @@
-import {
-  ChainId,
-  Token,
-  TokenAmount,
-  WAVAX,
-  Price
-} from '@lb-xyz/sdk-core'
+import { ChainId, Token, TokenAmount, WAVAX, Price } from '@lb-xyz/sdk-core'
 import { Pair } from '../src'
 import { describe, it, expect } from 'vitest'
 
